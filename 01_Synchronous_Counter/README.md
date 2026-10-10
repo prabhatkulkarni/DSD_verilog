@@ -19,3 +19,6 @@ Digital System Design / Verilog project implementing a 2-bit synchronous binary 
 - Quartus project files (`.qpf`, `.qsf`)
 
 Generated ModelSim/Quartus build files are intentionally excluded from this archive.
+## Schematic Diagram 
+<img width="870" height="403" alt="image" src="https://github.com/user-attachments/assets/465a8ed8-67a7-4379-93bd-47381cef5b05" />
+This is schematic Diagram for  2 bit synchronous counter
