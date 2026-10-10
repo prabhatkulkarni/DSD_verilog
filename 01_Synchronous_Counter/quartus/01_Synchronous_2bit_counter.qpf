@@ -28,4 +28,4 @@ DATE = "23:17:34  October 09, 2026"
 
 # Revisions
 
-PROJECT_REVISION = "01_D_FlipFlop"
+PROJECT_REVISION = "01_Synchronous_2bit_counter"
