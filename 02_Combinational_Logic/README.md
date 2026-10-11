@@ -43,6 +43,12 @@ For each test case, it compares the outputs of both designs with the expected Su
 - Testbench: [`tb/tb_fulladder.v`](./tb/tb_fulladder.v)
 - Simulator: ModelSim Intel FPGA Edition
 
+### Circuit Demonstration — Logisim Evolution
+
+The recording below demonstrates the Full Adder circuit in Logisim Evolution by changing the inputs and observing the Sum and Carry outputs.
+
+[Watch the Full Adder Logisim Evolution Demo](./simulation/fulladder_logisim_demo.webm)
+
 ### Simulation Evidence
 
 **Self-checking testbench transcript**
