@@ -1,0 +1,64 @@
+# ============================================================
+# Intel Quartus generated files
+# ============================================================
+
+db/
+incremental_db/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.qws
+*.qdf
+*.bak
+*.orig
+
+# Quartus generated programming/build files
+*.sof
+*.pof
+*.jic
+*.rbf
+*.hex
+*.mif
+
+# Quartus compilation databases / generated netlists
+*.cmp
+*.pin
+*.fit
+*.map
+*.sta
+*.sld
+*.xml
+
+# ============================================================
+# ModelSim generated files
+# ============================================================
+
+work/
+transcript
+*.wlf
+*.mpf
+*.mti
+*.ini
+
+# ModelSim coverage / generated libraries
+modelsim.ini
+vsim.wlf
+
+# ============================================================
+# OS / editor files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# ============================================================
+# Temporary files
+# ============================================================
+
+*.tmp
+*.temp
+*~
