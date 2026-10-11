@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/simulation/modelsim
+vfull_adder_direct
+Z1 !s110 1791729220
+!i10b 1
+!s100 eB8B:^Zbm]HOnb[]i<AW13
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]COjo_=3=>5SMNKW<X0QI3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791724211
+8/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_direct.v
+F/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_direct.v
+!i122 5
+Z4 L0 1 6
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1791729220.000000
+!s107 /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_direct.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src|/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_direct.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src
+Z9 tCvgOpt 0
+vfull_adder_structural
+R1
+!i10b 1
+!s100 bndXj_8H9niPi3cUiE@dH2
+R2
+I:mhlMA23ah:Dh0TjN07G40
+R3
+R0
+w1791724305
+8/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_structural.v
+F/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_structural.v
+!i122 3
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_structural.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src|/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/full_adder_structural.v|
+!i113 1
+R7
+R8
+R9
+vhalf_adder
+R1
+!i10b 1
+!s100 <8PFnn05Xbjm_jbTBKa:X0
+R2
+InZ1bF86OzK=CeT`o4UUN<0
+R3
+R0
+w1791723625
+8/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/half_adder.v
+F/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/half_adder.v
+!i122 4
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src|/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/src/half_adder.v|
+!i113 1
+R7
+R8
+R9
+vtb_fulladder
+R1
+!i10b 1
+!s100 N_2GTQ>bcT7i5:eaI1d0I3
+R2
+IO`z1C6]fhK5?YB]X_5@^K2
+R3
+R0
+w1791728356
+8/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb/tb_fulladder.v
+F/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb/tb_fulladder.v
+!i122 2
+L0 1 82
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb/tb_fulladder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb|/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb/tb_fulladder.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/02_Combinational_Logic/tb
+R9
