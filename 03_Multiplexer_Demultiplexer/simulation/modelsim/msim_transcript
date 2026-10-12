@@ -1,0 +1,32 @@
+# do MUX_DEMUX_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying /home/prabhat-kulkarni/fgpa/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src {/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src/mux_direct_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:39:31 on Oct 12,2026
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src" /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src/mux_direct_2.v 
+# -- Compiling module MUX_2
+# 
+# Top level modules:
+# 	MUX_2
+# End time: 22:39:31 on Oct 12,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src {/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src/mux_structural_4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:39:31 on Oct 12,2026
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src" /home/prabhat-kulkarni/DSD-Verilog/DSD_verilog/03_Multiplexer_Demultiplexer/src/mux_structural_4.v 
+# -- Compiling module MUX_4_structural
+# 
+# Top level modules:
+# 	MUX_4_structural
+# End time: 22:39:31 on Oct 12,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
