@@ -1,9 +1,9 @@
 module DEMUX_Structural_4(
-	input I,S0,S1,
+	input I,S0,S1,E,
 	output O0,O1,O2,O3);
-wire en1,en2,o1,o2;
-assign en1 = ~S1;
-assign en2 =S1; 
+wire en1,en2;
+assign en1 = E&(~S1);
+assign en2 =E&S1; 
 DEMUX_2 dm1 (
  .I(I),
  .S0(S0),
